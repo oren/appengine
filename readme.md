@@ -1,4 +1,4 @@
-![appengine](images/appengine-go.png)
+![appengine](appengine-go.png)
 
 This is the code for the official 'Hello World' [tutorial](https://cloud.google.com/appengine/docs/flexible/go/hello-world).
 
